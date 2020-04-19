@@ -3,7 +3,7 @@
 Este es el proyecto inicial para crea aplicaciones utilizando webpack.
 
 ### Notas:
-Recuerden recontruir los módulos de Node
+Recuerden reconstruir los módulos de Node
 
 ```
 npm install
